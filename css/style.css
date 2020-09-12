@@ -1,0 +1,36 @@
+.bodyIndex{
+    text-align: center;
+    background-image: url(../img/Dx13xgmW0AcLruB.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bodyAlbum{
+    text-align: center;
+    background-image: url(../img/2205-e622-76c7-c3c2-5662-472b-65c6-4ced.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: #ffffff;
+    font-size: 90px;
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-size: 33px;
+}
+h3{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+a{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+table{
+    color: floralwhite;
+    font-size: 30px;
+}
